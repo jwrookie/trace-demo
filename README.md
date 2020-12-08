@@ -28,3 +28,5 @@ jaegertracing/all-in-one:latest
 查看追踪日志：进入jaeger-query
 
 ![展示.png](https://github.com/jwrookie/trace-demo/blob/master/img/%E5%B1%95%E7%A4%BA.png?raw=true)
+
+觉得还行，打个星星，哈哈
